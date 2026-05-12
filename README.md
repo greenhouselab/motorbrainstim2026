@@ -2,7 +2,7 @@ We are excited to host the **Mapping the Motor System with Brain Stimulation Wor
 
 Please stay tuned for the [schedule](./schedule.html) and registration details.
 
-This event is made possible with generous support from the Max Planck Gesellschaft and the University of Oregon Global Scholars Institute.
+This event is made possible with generous support from the Max Planck Gesellschaft and the [University of Oregon Global Studies Institute](https://gsi.uoregon.edu/).
 
 We look forward to having you join us!
 
