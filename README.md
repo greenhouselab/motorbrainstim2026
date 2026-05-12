@@ -6,4 +6,4 @@ This event is made possible with generous support from the Max Planck Gesellscha
 
 We look forward to having you join us!
 
-Ian Greenhouse & Thomas Knoesche
+Ian Greenhouse & Thomas Knösche
