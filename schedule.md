@@ -1,11 +1,11 @@
 # Schedule of Planned Activities
-## October 11
+## <ins>October 11</ins>
   Arrive in Eugene, OR
 
   #### 6:30 Dinner @ TBD
 
 
-## October 12
+## <ins>October 12</ins>
 #### 9:00 Keynote
 
 - Dr. Thomas Knösche
@@ -30,7 +30,7 @@
 
 #### 6:30 Dinner @ TBD
 
-## October 13
+## <ins>October 13</ins>
 #### 9:00 to noon Thirty-minute Talks
  - Dr. Ian Greenhouse
  - Participant Talk
