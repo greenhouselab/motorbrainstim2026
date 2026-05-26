@@ -49,7 +49,7 @@
 
 #### 6:30 Dinner @ TBD
 
-## October 14
+## <ins>October 14</ins>
 #### 9:00 to noon Grant Proposal Development Workshop
  - UO Global Research Development
  - UO Vice President of Research and Innovation
