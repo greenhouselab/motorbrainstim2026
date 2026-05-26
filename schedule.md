@@ -2,7 +2,7 @@
 ## <ins>October 11</ins>
   Arrive in Eugene, OR
 
-  #### 6:30 Dinner @ TBD
+#### 6:30 Dinner @ TBD
 
 
 ## <ins>October 12</ins>
@@ -50,9 +50,11 @@
 #### 6:30 Dinner @ TBD
 
 ## <ins>October 14</ins>
-#### 9:00 to noon Grant Proposal Development Workshop
+#### 9:00 to 11:30 Guided Grant Proposal Development Workshop
  - UO Global Research Development
  - UO Vice President of Research and Innovation
+
+#### 11:45 Closing Comments
 
 #### noon Bag lunch
 
