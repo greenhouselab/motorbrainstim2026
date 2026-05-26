@@ -2,14 +2,35 @@
 # October 11
 Arrive in Eugene, OR
 
-Dinner
+<ins>6:30 Dinner @ TBD</ins>
+
 
 # October 12
-AM Talks
+<ins>9:00 Keynote</ins>
 
-lunch
+  Dr. Thomas Knösche
 
-PM SimNIBS Workshop
+<ins>10:15 to noon Talks</ins>
+
+  Dr. Konstantin Weise
+
+  Dr. Ole Numssen
+
+  Renxiang Qiu
+
+<ins> noon to 1:00 lunch</ins>
+
+<ins>1:00 tp 3:00 SimNIBS Workshop</ins>
+
+  Planning Workflow
+
+  Neuroimaging
+
+  MEP measurement
+
+  Batch Analyses
+
+  Interpretation of Output
 
 Dinner
 
