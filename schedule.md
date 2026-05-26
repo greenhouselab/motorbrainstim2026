@@ -1,51 +1,60 @@
 # Schedule of Planned Activities
-# October 11
-Arrive in Eugene, OR
+## October 11
+  Arrive in Eugene, OR
 
-<ins>6:30 Dinner @ TBD</ins>
+  #### 6:30 Dinner @ TBD
 
 
-# October 12
-<ins>9:00 Keynote</ins>
+## October 12
+#### 9:00 Keynote
 
-  Dr. Thomas Knösche
+- Dr. Thomas Knösche
 
-<ins>10:15 to noon Talks</ins>
+#### 10:15 to noon Thirty-minute Talks
 
-  Dr. Konstantin Weise
+ - Dr. Konstantin Weise
+ - Dr. Ole Numssen
+ - Renxiang Qiu
 
-  Dr. Ole Numssen
+#### noon to 1:00 lunch
 
-  Renxiang Qiu
+#### 1:00 tp 3:00 SimNIBS Workshop
 
-<ins> noon to 1:00 lunch</ins>
+ - Workflow Planning
+ - Neuroimaging
+ - MEP measurement
+ - Batch Analyses
+ - Interpretation of Output
 
-<ins>1:00 tp 3:00 SimNIBS Workshop</ins>
+#### 3:15 to 5:15 Poster Session
 
-  Planning Workflow
 
-  Neuroimaging
+#### 6:30 Dinner @ TBD
 
-  MEP measurement
+## October 13
+#### 9:00 to noon Thirty-minute Talks
+ - Dr. Ian Greenhouse
+ - Participant Talk
+ - Participant Talk
+ - Participant Talk
 
-  Batch Analyses
+#### noon to 1:00 lunch
 
-  Interpretation of Output
+#### 1:00 to 3:00 Hackathon
+ - Visualization and statistical analysis of previously acquired data
 
-Dinner
+#### 3:15 to 5:15 Brainstorming Round Table
+ - What problems can be addressed?
+   - Clinical vs Basic Science Applications
+   - Experiment Planning
 
-# October 13
-AM Talks
+#### 6:30 Dinner @ TBD
 
-luch
+## October 14
+#### 9:00 to noon Grant Proposal Development Workshop
+ - UO Global Research Development
+ - UO Vice President of Research and Innovation
 
-PM Funding Discussion
+#### noon Bag lunch
 
-Dinner
-
-# October 14
-AM panel Discussion
-
-Bag lunch
-
-Departure
+Depart Eugene, OR
