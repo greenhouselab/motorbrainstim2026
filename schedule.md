@@ -18,7 +18,7 @@
 
 #### noon to 1:00 lunch
 
-#### 1:00 tp 3:00 SimNIBS Workshop
+#### 1:00 to 3:00 SimNIBS Workshop
 
  - Workflow Planning
  - Neuroimaging
@@ -27,7 +27,6 @@
  - Interpretation of Output
 
 #### 3:15 to 5:15 Poster Session
-
 
 #### 6:30 Dinner @ TBD
 
