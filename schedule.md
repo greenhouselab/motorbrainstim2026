@@ -26,7 +26,18 @@
  - Batch Analyses
  - Interpretation of Output
 
-#### 3:15 to 5:15 Poster Session
+#### 3:15 to 5:15 Seven-minute Talks
+ - Participant Talk
+ - Participant Talk
+ - Participant Talk
+ - Participant Talk
+ - Participant Talk
+   10 minute break
+ - Participant Talk
+ - Participant Talk
+ - Participant Talk
+ - Participant Talk
+ - Participant Talk
 
 #### 6:30 Dinner @ TBD
 
