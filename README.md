@@ -2,7 +2,9 @@ We are excited to host the **Mapping the Motor System with Brain Stimulation Wor
 
 Here is a preview of the [schedule](./schedule.html) and [registration details](./https://oregon.qualtrics.com/jfe/form/SV_eQnvqgan6xQshJY). Registration is free and will be capped at 30 attendees.
 
-There are a limited number of [free lodging options](./https://gsi.uoregon.edu/intlapartment). Once these have all been claimed, we will e-mail registrants with information for the [meeting hotel](./https://haywardinneugene.com/) that offers a reduced rate. Meeting attendees are also welcome to use other lodging options. The University of Oregon is in beautiful Eugene, Oregon. You can find information about getting to Eugene [here](./https://international.uoregon.edu/visit-eugene) and more information about things to do [here](./https://www.eugenecascadescoast.org/).
+There are a limited number of [free lodging options](./https://gsi.uoregon.edu/intlapartment). Once these have all been claimed, we will e-mail registrants with information for the [meeting hotel](./https://haywardinneugene.com/) that offers a reduced rate. Meeting attendees are also welcome to use other lodging options. 
+
+The University of Oregon is in beautiful Eugene, Oregon. You can find information about getting to Eugene [here](./https://international.uoregon.edu/visit-eugene) and more information about things to do [here](./https://www.eugenecascadescoast.org/).
 
 This event is made possible with generous support from the [Max Planck Gesellschaft](https://www.mpg.de/en) and the [University of Oregon Global Studies Institute](https://gsi.uoregon.edu/).
 
