@@ -1,6 +1,6 @@
 We are excited to host the **Mapping the Motor System with Brain Stimulation Workshop** at the University of Oregon **October 12-14, 2026**! 
 
-Here is a preview of the [schedule](./schedule.html), and you may register [here](https://oregon.qualtrics.com/jfe/form/SV_eQnvqgan6xQshJY). Registration is free and will be capped at 30 attendees.
+Here is a preview of the [schedule](./schedule.html), and you may register [here](https://oregon.qualtrics.com/jfe/form/SV_eQnvqgan6xQshJY). Registration is free, and attendance will be capped at 30 participants.
 
 There are a limited number of [free lodging options](https://gsi.uoregon.edu/intlapartment). Once these have all been claimed, we will e-mail registrants with information for the [meeting hotel](https://haywardinneugene.com/) that offers a reduced rate. Meeting attendees are also welcome to use other lodging options. 
 
