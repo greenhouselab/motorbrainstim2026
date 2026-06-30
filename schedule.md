@@ -13,8 +13,8 @@
 #### 10:15 to noon Thirty-minute Talks
 
  - Dr. Konstantin Weise
- - Dr. Ole Numssen
  - Renxiang Qiu
+ - 
 
 #### noon to 1:00 lunch
 
