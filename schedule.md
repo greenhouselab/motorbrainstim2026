@@ -14,7 +14,7 @@
 
  - Dr. Konstantin Weise
  - Renxiang Qiu
- - 
+ - Dr. Corey Wadsley
 
 #### noon to 1:00 lunch
 
@@ -27,11 +27,11 @@
  - Interpretation of Output
 
 #### 3:15 to 5:15 Seven-minute Talks
- - Participant Talk
- - Participant Talk
- - Participant Talk
- - Participant Talk
- - Participant Talk
+ - Dr. Charlambos Charalambous
+ - Dr. Jumes Lira
+ - Dr. Rui Lin
+ - Hayami Nishio
+ - 
    10 minute break
  - Participant Talk
  - Participant Talk
@@ -44,8 +44,8 @@
 ## <ins>October 13</ins>
 #### 9:00 to noon Thirty-minute Talks
  - Dr. Ian Greenhouse
- - Participant Talk
- - Participant Talk
+ - Dr. Deborah Barrany
+ - Dr. Sara Parmigiani
  - Participant Talk
 
 #### noon to 1:00 lunch
