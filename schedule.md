@@ -14,7 +14,7 @@
 
  - Dr. Konstantin Weise
  - Renxiang Qiu
- - Dr. Corey Wadsley
+ - Dr. Vincent Chien
 
 #### noon to 1:00 lunch
 
@@ -45,9 +45,9 @@
 ## <ins>October 13</ins>
 #### 9:00 to noon Thirty-minute Talks
  - Dr. Ian Greenhouse
+ - Dr. Corey Wadsley
  - Dr. Deborah Barrany
  - Dr. Sara Parmigiani
- - Participant Talk
 
 #### noon to 1:00 lunch
 
