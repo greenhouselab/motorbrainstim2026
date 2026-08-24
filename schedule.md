@@ -8,19 +8,19 @@
 ## <ins>October 12</ins>
 #### 9:00 Keynote
 
-- Dr. Thomas Knösche
+- Dr. Thomas Knösche:
   "From coil to muscle – comprehensive modelling of motor TMS"
 
 #### 10:15 to noon Thirty-minute Talks
 
- - Dr. Konstantin Weise
+ - Dr. Konstantin Weise:
    "How to Couple Electric Fields to Neurons and Circuits"
 
- - Renxiang Qiu
+ - Renxiang Qiu:
    “Mapping the motor cortex with TMS”
    
- - Dr. Vincent Chien
-   "“Spinal Recurrent Inhibition Shapes the Dynamics of TMS-induced Motor-Evoked Potentials: A Computational Modeling Study”
+ - Dr. Vincent Chien:
+   "Spinal Recurrent Inhibition Shapes the Dynamics of TMS-induced Motor-Evoked Potentials: A Computational Modeling Study"
 
 #### noon to 1:00 lunch
 
@@ -33,16 +33,16 @@
  - Interpretation of Output
 
 #### 3:15 to 5:15 Seven-minute Talks
- - Dr. Charalambos Charalambous
+ - Dr. Charalambos Charalambous:
    "Cortical Mapping of Bilateral Motor Descending Projections to Lower Extremity Muscles"
 
- - Dr. Jumes Lira
+ - Dr. Jumes Lira:
    "TBD"
    
- - Dr. Elena Mussini
+ - Dr. Elena Mussini:
    "TBD"
    
- - Hayami Nishio
+ - Hayami Nishio:
    "TBD"
    
  - Participant Talk
@@ -51,16 +51,16 @@
 
 ## <ins>October 13</ins>
 #### 9:00 to noon Thirty-minute Talks
- - Dr. Ian Greenhouse
+ - Dr. Ian Greenhouse:
    "Mapping state-dependent motor cortex sensitivity to TMS"
    
- - Dr. Corey Wadsley
+ - Dr. Corey Wadsley:
    "Goal-directed functional tuning in M1"
    
- - Dr. Deborah Barrany
+ - Dr. Deborah Barrany:
    "Probing Motor System Excitability During Planning of Complex Reaching Trajectories"
 
- - Dr. Carolynn Patten
+ - Dr. Carolynn Patten:
    "TBD"
 
 #### noon to 1:00 lunch
