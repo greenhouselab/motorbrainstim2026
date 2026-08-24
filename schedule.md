@@ -32,7 +32,7 @@
  - Batch Analyses
  - Interpretation of Output
 
-#### 3:15 to 5:15 Seven-minute Talks
+#### 3:15 to 4:15 Seven-minute Talks
  - Dr. Charalambos Charalambous:
    "Cortical Mapping of Bilateral Motor Descending Projections to Lower Extremity Muscles"
 
@@ -46,6 +46,8 @@
    "TBD"
    
  - Participant Talk
+
+#### 4:30 Recap of the day and preparation for Day 2
 
 #### 6:30 Dinner @ TBD
 
