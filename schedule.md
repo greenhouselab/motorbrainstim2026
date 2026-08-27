@@ -1,4 +1,5 @@
-# Schedule of Planned Activities <br> [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu4U8)
+# Schedule of Planned Activities <br> 
+Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu4U8)
 
 
 ## <ins>October 11</ins>
