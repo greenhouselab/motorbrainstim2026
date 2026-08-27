@@ -9,18 +9,18 @@
 #### 9:00 Keynote
 
 - Dr. Thomas Knösche:
-  "From coil to muscle – comprehensive modelling of motor TMS"
+  ["From coil to muscle – comprehensive modelling of motor TMS"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.l1qeqtlzfo7q)
 
 #### 10:15 to noon Thirty-minute Talks
 
  - Dr. Konstantin Weise:
-   "How to Couple Electric Fields to Neurons and Circuits"
+   ["How to Couple Electric Fields to Neurons and Circuits"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.c2i08b8xw42z)
 
  - Renxiang Qiu:
-   “Mapping the motor cortex with TMS”
+   [“Mapping the motor cortex with TMS”](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.jsl0tt5zees7)
    
  - Dr. Vincent Chien:
-   "Spinal Recurrent Inhibition Shapes the Dynamics of TMS-induced Motor-Evoked Potentials: A Computational Modeling Study"
+   ["Spinal Recurrent Inhibition Shapes the Dynamics of TMS-induced Motor-Evoked Potentials: A Computational Modeling Study"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.2ook67ygclj4)
 
 #### noon to 1:00 lunch
 
