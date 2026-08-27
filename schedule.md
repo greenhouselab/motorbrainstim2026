@@ -34,7 +34,7 @@
 
 #### 3:15 to 4:15 Seven-minute Talks
  - Dr. Charalambos Charalambous:
-   "Cortical Mapping of Bilateral Motor Descending Projections to Lower Extremity Muscles"
+   ["Cortical Mapping of Bilateral Motor Descending Projections to Lower Extremity Muscles"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.awq2wwvme7al)
 
  - Dr. Jumes Lira:
    "TBD"
@@ -60,7 +60,7 @@
    "Goal-directed functional tuning in M1"
    
  - Dr. Deborah Barrany:
-   "Probing Motor System Excitability During Planning of Complex Reaching Trajectories"
+   ["Probing Motor System Excitability During Planning of Complex Reaching Trajectories"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.jaks45xi928l)
 
  - Dr. Carolynn Patten:
    "TBD"
