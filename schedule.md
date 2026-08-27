@@ -56,7 +56,7 @@
 ## <ins>October 13</ins>
 #### 9:00 to noon. Thirty-minute Talks
  - Dr. Ian Greenhouse:
-   "Mapping state-dependent motor cortex sensitivity to TMS"
+   ["Mapping state-dependent motor cortex sensitivity to TMS"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.f3ztmeddko4l)
    
  - Dr. Corey Wadsley:
    "Goal-directed functional tuning in M1"
@@ -86,6 +86,6 @@
 
 #### 11:45. Closing Comments
 
-#### noon Bag lunch
+#### noon. Bag lunch - optional walk/hike activity
 
 Depart Eugene, OR
