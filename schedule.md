@@ -2,12 +2,6 @@
 Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu4U8)
 
 
-## <ins>October 11</ins>
-  Arrive in Eugene, OR
-
-
-
-
 ## <ins>October 12</ins>
 #### 9:00. Keynote
 
