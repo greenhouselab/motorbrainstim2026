@@ -50,7 +50,9 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    University of Oregon<br>
    "TBD"
    
- - Participant Talk<br>
+ - Dr. Sara Parmigiani<br>
+   University of Oregon<br>
+   "TBD"
 
 #### 4:30. Recap of the day and preparation for Day 2
 
