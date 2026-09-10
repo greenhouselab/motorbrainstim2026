@@ -27,11 +27,13 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 #### 1:00 to 3:00. SimNIBS Workshop
 
- - Workflow Planning
- - Neuroimaging
- - MEP measurement
- - Batch Analyses
- - Interpretation of Output
+ - Overview
+ - Head Model and ROI: what the model contains, how to check it, and how coil position and orientation shape the E-field.
+ - The Experiment: choosing an initial target, recording coil poses and MEPs across the motor map, importing navigation data, and checking common errors such as mirrored maps from axis conventions.
+ - A Field for Every Pulse: efficiently computing E-fields for hundreds of stimulations.
+ - Localization: relating local E-field strength to MEP amplitude to obtain muscle-specific maps and hotspots, and assessing how many pulses are needed for a reliable result.
+ - From Map to Stimulation Target: converting the hotspot into an optimized coil pose for the next session, exporting it to neuronavigation system, and expressing stimulation dose as target E-field rather than %MSO.
+ - Hackathon Challenges
 
 #### 3:15 to 4:15. Seven-minute Talks
  - Dr. Charalambos Charalambous<br>
