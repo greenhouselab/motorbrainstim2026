@@ -44,7 +44,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    
  - Dr. Elena Mussini<br>
    Università degli Studi di Milano<br>
-   "TBD"
+   "Heartbeats in Action: cardiac dynamics across motor processing"
    
  - Hayami Nishio<br>
    University of Oregon<br>
