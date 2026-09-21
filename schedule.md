@@ -41,8 +41,8 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    ["Cortical Mapping of Bilateral Motor Descending Projections to Lower Extremity Muscles"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.awq2wwvme7al)
 
  - Dr. Jumes Lira<br>
- Oregon Health and Science University<br>
-   "TBD"
+ Oregon Health & Science University<br>
+   ["Cortical Activity and Gait in Healthy Controls and People with Parkinson’s across PFC phenotypes"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.uu4350tzvfcc)
    
  - Dr. Elena Mussini<br>
    Università degli Studi di Milano<br>
