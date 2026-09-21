@@ -46,7 +46,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    
  - Dr. Elena Mussini<br>
    Università degli Studi di Milano<br>
-   "Heartbeats in Action: cardiac dynamics across motor processing"
+   ["Heartbeats in Action: cardiac dynamics across motor processing"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.d1zzt42k39pk)
    
  - Hayami Nishio<br>
    University of Oregon<br>
