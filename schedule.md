@@ -4,7 +4,8 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 ## <ins>October 12</ins>
 #### 9:00. Welcome
-- Dr. Elliot Berkman Divisional Associate Dean, Natural Sciences and Center for Translational Neuroscience Co-Director 
+- Dr. Elliot Berkman<br>
+  University of Oregon Divisional Associate Dean, Natural Sciences and Center for Translational Neuroscience Co-Director 
 
 #### 9:10. Keynote
 - Dr. Thomas Knösche<br>
