@@ -3,8 +3,10 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 
 ## <ins>October 12</ins>
-#### 9:00. Keynote
+#### 9:00. Welcome
+- Dr. Elliot Berkman Divisional Associate Dean, Natural Sciences and Center for Translational Neuroscience Co-Director 
 
+#### 9:10. Keynote
 - Dr. Thomas Knösche<br>
   Max Planck Institute for Human Cognitive and Brain Sciences<br>
   ["From coil to muscle – comprehensive modelling of motor TMS"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.l1qeqtlzfo7q)
