@@ -3,7 +3,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 
 ## <ins>October 12</ins>
-#### 9:00. Welcome
+#### 9:00. Opening Comments
 - Dr. Elliot Berkman<br>
   University of Oregon Divisional Associate Dean, Natural Sciences and Center for Translational Neuroscience Co-Director 
 
