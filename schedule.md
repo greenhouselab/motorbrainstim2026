@@ -1,5 +1,5 @@
 # Schedule of Planned Activities <br> 
-Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu4U8)
+Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu4U8) University of Oregon
 
 
 ## <ins>October 12</ins>
