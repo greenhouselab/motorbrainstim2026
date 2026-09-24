@@ -57,7 +57,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    
  - Dr. Sara Parmigiani<br>
    University of Oregon<br>
-   "TBD"
+   ["DBS and EEG Integration in Parkinson's Disease for Motor and Non-Motor Symptoms"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.br67mbcbkhmx)
 
 #### 4:30. Recap of the day and preparation for Day 2
 
