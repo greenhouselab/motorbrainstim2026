@@ -38,11 +38,15 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
  - From Map to Stimulation Target: converting the hotspot into an optimized coil pose for the next session, exporting it to neuronavigation system, and expressing stimulation dose as target E-field rather than %MSO.
  - Hackathon Challenges
 
-#### 3:15 to 4:15. Seven-minute Talks
+#### 3:15 to 4:30. Seven-minute Talks
  - Dr. Charalambos Charalambous<br>
    Duke University School of Medicine<br>
    ["Cortical Mapping of Bilateral Motor Descending Projections to Lower Extremity Muscles"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.awq2wwvme7al)
 
+ - Dr. Phivos Phylactou<br>
+   University of Nevada, Reno <br>
+   ["TMS induced pupil dilations as a cortical excitability measure"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?tab=t.0#bookmark=id.uhiwmyz748fg)
+   
  - Dr. Jumes Lira<br>
  Oregon Health & Science University<br>
    ["Cortical Activity and Gait in Healthy Controls and People with Parkinson’s across PFC phenotypes"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.uu4350tzvfcc)
@@ -59,7 +63,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    University of Oregon<br>
    ["DBS and EEG Integration in Parkinson's Disease for Motor and Non-Motor Symptoms"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?pli=1&tab=t.0#bookmark=id.br67mbcbkhmx)
 
-#### 4:30. Recap of the day and preparation for Day 2
+#### 4:45. Recap of the day and preparation for Day 2
 
 #### 6:30. Reception Dinner @ [Marche Restaurant](https://marcherestaurant.com/)
 
