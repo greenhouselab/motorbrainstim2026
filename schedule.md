@@ -53,7 +53,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    
  - Hayami Nishio<br>
    University of Oregon<br>
-   "TBD"
+   ["Intracortical inhibition during motor learning as a function of task complexity and the relationship to retention"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?tab=t.0#bookmark=id.4c2glswqkw9s)
    
  - Dr. Sara Parmigiani<br>
    University of Oregon<br>
@@ -71,7 +71,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
    
  - Dr. Corey Wadsley<br>
    University of Auckland<br>
-   "Goal-directed functional tuning in M1"
+   ["Goal-directed functional tuning in M1"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?tab=t.0#bookmark=id.w5am4ieoms07)
    
  - Dr. Deborah Barrany<br>
    University of Georgia<br>
