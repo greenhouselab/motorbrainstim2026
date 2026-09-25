@@ -61,7 +61,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 #### 4:30. Recap of the day and preparation for Day 2
 
-#### 6:30. Reception Dinner @ TBD
+#### 6:30. Reception Dinner @ [Marche Restaurant](https://marcherestaurant.com/)
 
 ## <ins>October 13</ins>
 #### 9:00 to noon. Thirty-minute Talks
