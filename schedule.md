@@ -83,7 +83,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
  - Dr. Carolynn Patten<br>
    University of Washington<br>
-   "TBD"
+   ["TMS Reveals Motor System Function Differs During Movement"](https://docs.google.com/document/d/1lIouhl68C5zjVJHq91CytCScA7gZEKTpUrTN9_gtuDI/edit?tab=t.0#bookmark=id.f8uf3y36devr)
 
 #### noon to 1:00. lunch
 
