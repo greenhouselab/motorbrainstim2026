@@ -104,6 +104,10 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 #### 11:45. Closing Comments
 
-#### noon. Bag lunch - optional walk/hike activity
+#### noon. Bag lunch
+
+#### 12.15. [Voodies interviews at the Puddles the Duck statue](https://www.tiktok.com/@voodies) - optional
+
+#### optional walk/hike activity
 
 Depart Eugene, OR
