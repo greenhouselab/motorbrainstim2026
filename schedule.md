@@ -3,6 +3,8 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 
 ## <ins>October 12</ins>
+#### 8:30. Breakfast & Coffee
+
 #### 9:00. Opening Comments
 - Dr. Elliot Berkman<br>
   University of Oregon Divisional Associate Dean, Natural Sciences and Center for Translational Neuroscience Co-Director 
@@ -68,6 +70,9 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 #### 6:30. Official Conference Reception @ [Marche Restaurant](https://marcherestaurant.com/)
 
 ## <ins>October 13</ins>
+
+#### 8:30. Breakfast & Coffee
+
 #### 9:00 to noon. Thirty-minute Talks
  - Dr. Ian Greenhouse<br>
    University of Oregon<br>
@@ -98,6 +103,9 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 #### 6:30. Dinner @ TBD
 
 ## <ins>October 14</ins>
+
+#### 8:30. Breakfast & Coffee
+
 #### 9:00 to 11:30. Guided Grant Proposal Development Workshop
  - Emma Lynn UO, Global Research Development
  - Kate Petcosky-Kulkarny, UO Vice President of Research and Innovation
