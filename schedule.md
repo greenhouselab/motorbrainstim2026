@@ -98,13 +98,17 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 #### noon to 1:00. lunch
 
-#### 1:00 to 3:00. Hackathon
- - Visualization and statistical analysis of previously acquired data
+#### 1:00 to 3:00. Brainstorming Round Table
+> What problems can be addressed?
+  >> Clinical vs Basic Science Applications (e.g. how to treat lesions in models?)<br>
+  >> Experiment Planning <br>
+  >> Reliability & Standards <br>
+  >> non-MEP derived measures <br>
+  >> Group-level data <br>
 
-#### 3:15 to 5:15. Brainstorming Round Table
- - What problems can be addressed?
-   - Clinical vs Basic Science Applications
-   - Experiment Planning
+#### 3:15 to 5:15. Hackathon
+> Data quality assessment<br>
+> Visualization and statistical analysis of previously acquired data
 
 #### 6:30. Dinner @ TBD
 
