@@ -107,8 +107,11 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
   >> Group-level data <br>
 
 #### 3:15 to 5:15. Hackathon
-> Data quality assessment<br>
-> Visualization and statistical analysis of previously acquired data
+> Example specific challenges:
+>> Rework a step from the SimNIBS workshop that was problematic. <br>
+>> Propose a method for assessing data quality at a specific stage of analysis. <br>
+>> Create a novel method for data visualization. <br>
+>> Attempt to apply a novel statistical approach to previously acquired data. <br>
 
 #### 6:30. Dinner @ TBD
 
