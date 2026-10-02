@@ -110,6 +110,30 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
  - Emma Lynn UO, Global Research Development
  - Kate Petcosky-Kulkarny, UO Vice President of Research and Innovation
 
+> 9:00–9:10 Welcome, introductions & objectives 
+
+> 9:10–9:20 How to think about funding U.S.–International collaborations 
+
+> 9:20–9:40 Foundation & international funding mechanisms 
+
+> 9:40–10:00 U.S. federal funding mechanisms 
+
+> 10 Min BREAK 
+
+> 10:10–10:15 Transition: from mechanisms to research ideas 
+
+> 10:15–10:30 Identify research ideas
+
+> 10:30–11:00 Assess project maturity & funding needs
+
+> 11:00-11:15 Begin to map projects to mechanisms 
+
+> 11:15–11:30 Articulate next steps 
+
+
+
+
+
 #### 11:45. Closing Comments
 
 #### noon. Bag lunch
