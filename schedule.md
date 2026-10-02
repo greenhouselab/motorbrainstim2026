@@ -106,7 +106,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 
 #### 8:30. Breakfast & Coffee
 
-#### 9:00 to 11:30. Guided Grant Proposal Development Workshop
+#### 9:00 to 11:30. Guided Strategic Grant Proposal Development Workshop
  - Emma Lynn UO, Global Research Development
  - Kate Petcosky-Kulkarny, UO Vice President of Research and Innovation
 
