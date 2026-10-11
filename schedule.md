@@ -31,6 +31,7 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 #### noon to 1:00. lunch
 
 #### 1:00 to 3:00. SimNIBS Workshop
+[Jupyter Notebook](https://urldefense.com/v3/__https://notebooks.mpcdf.mpg.de/binder/v2/gl/reqi*2Fcoil2map-binder/main?urlpath=lab*tree*demo*notebooks*00_check_env.ipynb__;JS8vLy8!!C5qS4YX3!G0ma5m_fVXBZt6EjCoM9cGF-UC0PF7wVtFCIgzTL9yKzcUloz8e3_QgUjX59J2_o1GKJyXEeRnHNUw$)
 
 > Overview
 
