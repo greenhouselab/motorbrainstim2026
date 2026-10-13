@@ -100,6 +100,8 @@ Location: [Ford Alumni Center Board Room](https://maps.app.goo.gl/4fomhYjGWA9RWu
 #### noon to 1:00. lunch
 
 #### 1:00 to 3:00. Brainstorming Round Table
+[Brainstorming Shared Document](https://docs.google.com/document/d/1cj0_U059oM0yZydeFh9VyeJBEQ99M4yKm0wuu25exok/edit?usp=sharing)
+
 > What problems can be addressed?
   >> Clinical vs Basic Science Applications (e.g. how to treat lesions in models?)<br>
   >> Experiment Planning <br>
